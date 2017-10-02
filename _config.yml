@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 
 title: RealityTech projets.
 description: List and description of RealityTech open source projects.
-show_downloads: "false"
+show_downloads: false
