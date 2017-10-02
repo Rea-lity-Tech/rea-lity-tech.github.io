@@ -12,7 +12,7 @@ controllers for our apps and for Augmented Reality.
 
 Here are the one-user programs made for fun and work. 
 
-## Presention software [Soby](https://github.com/poqudrof/Soby)
+## Presention software: [Soby](https://github.com/poqudrof/Soby)
 
 Soby was inspired by Prezi and Sozi. It is a planar (zoomable) presentation software. 
 The presentations are created with Inkscape, animated with a plugin from Sozi and displayed through Processing. 
