@@ -26,4 +26,6 @@ Soby is in Ruby, and uses [JRubyArt](https://github.com/ruby-processing/JRubyArt
 
 ## [Robus in Ruby](https://github.com/Rea-lity-Tech/RobusRuby) 
 
-Experimental version of Robus in Ruby. 
+[Robus](https://github.com/pollen/pyrobus) is a robotics framework from [Pollen Robotics](http://pollen-robotics.com/). 
+We created an experimental version of Robus in Ruby to make it work in JRubyArt. 
+
