@@ -10,7 +10,7 @@ controllers for our apps and for Augmented Reality.
 Skatolo also comes with [JRubyArt](https://ruby-processing.github.io/JRubyArt/) bindings and as a [ruby gem](https://rubygems.org/gems/skatolo/versions/0.7.1.0). The great work done in ControlP5 can be experienced in a more interactive way in ruby. With this it is possible to create GUI elements in presentations in Soby.
 
 
-### [SVGExtented](https://rea-lity-tech.github.io/SVGExtented), font and embedded support for SVG in Processing.
+### [SVGExtended](https://rea-lity-tech.github.io/SVGExtended/), font and embedded support for SVG in Processing.
 
 Processing is capable to display `.svg` images. However its support 
 is limited in performance and capabilities. We did not work on 
