@@ -1,4 +1,29 @@
 
+
+## [PapARt](https://github.com/poqudrof/PapARt) - Paper Augmented Reality Toolkit
+
+PapARt is in active development, and it will evolve to better fit its uses. For now 
+it handles many different tasks: 
+
+* Marker detection and tracking, with markers and natural features. [Help Needed to tend the tracking capabilites]. 
+* Augmented reality rendering, in Processing. 
+* Camera and projector calibration. 
+* Touch detection and tracking from depth cameras. 
+* «Touch» detection and tracking from color cameras. 
+* 3D Scanner with structured light (in addition to depth cameras).
+* Camera «drivers»: Processing, OpenCV, Kinect, Realsense and more...
+
+
+The library is available on github and available for free, distributed under the 
+LGPL and CeCILL-C licences. 
+
+* Community forum. [Coming  soon]
+* Github page for the [core](https://github.com/poqudrof/PapARt) and [examples](https://github.com/poqudrof/PapARt-examples).
+
+
+PapARt was initially a reseach project from [Bordeaux University](https://www.u-bordeaux.fr/) and [Inria](https://www.inria.fr/en/centre/bordeaux).
+
+
 ## Processing libraries
 
 

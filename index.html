@@ -3,7 +3,64 @@ layout: index
 section-type: index
 ---
 {% include section_start.html %}
-      
+
+<section id="main" class="container content-section ">
+  <div class="row">
+    <div class="col-md-2 ">
+    </div>
+    <div class="col-md-8 ">
+      <p> <b>RealityTech</b> is a company dedicated to Augmented Reality solutions. We build our own software and hardware and share most of our work through <b>open source software</b>, <b>open hardware</b>
+	and contributions to existing projects.
+      </p>
+    </div>
+    <div class="col-md-2 ">
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="col-md-4 ">
+      <img src="../img/papart.png" class="img-rounded" alt="Touch in papart.">
+
+      <h3 style="text-align:center;">PapARt</h3>
+      <p> <b style="text-align:center;">
+	  (Paper Augmented Reality Toolkit)</b></p>
+	  
+	  <p>
+	PapARt enable the creation of interactive projection applications. It
+	is the framework we develop, use and maintain.
+	The main features are the tracking of markers (via ARToolkitPlus), natural
+	features (via JavaCV), augmented reality rendering (using Processing),
+	and multi-touch tracking.
+	</p>
+    </div>
+    <div class="col-md-4 ">
+      <img src="../img/processing.png" class="img-rounded" alt="Processing logo.">
+      <p>
+	<h3 style="text-align:center;">Highlight: Processing</h3>
+	<p>
+	  <a href="http//processing.org">Processing</a> is an open source programming environment dedicated to create
+	interactive applications. Processing enables fast prototyping of applications
+	and brings an easy integration of java libraries like PapARt and JavaCV.
+	It is also a large community of artists and engineers both amateurs and
+	profesionnals. 
+      </p>
+    </div>
+    <div class="col-md-4 ">
+      <img src="../img/javacv.png" class="img-rounded" alt="Processing logo.">
+      <p>
+	<h3 style="text-align:center;" >Highlight: JavaCV</h3>
+	<p>
+	<a href="https://github.com/bytedeco/javacv" > JavaCV</a> is an open source project that ease the use of native OpenCV in Java.
+	It is a user layer on top on JavaCPP-presets for OpenCV. JavaCV, and other
+	Java bindings are used in PapARt to use fast native code to handle image
+	processing and camera drivers. 
+      </p>
+    </div>
+  </div>
+</section>
+
+
+
 {% capture readme %}
 {% include_relative README.md %}
 {% endcapture %}
